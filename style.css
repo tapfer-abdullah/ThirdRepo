@@ -1,0 +1,14 @@
+p{
+    border: 10px solid blueviolet;
+}
+h1{
+    text-align: center;
+}
+.content{
+    border: 10px solid red;
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+    width: 25%;
+    border-radius: 10px;
+}
